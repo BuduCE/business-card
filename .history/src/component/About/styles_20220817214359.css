@@ -1,0 +1,38 @@
+.about{
+    padding: 24px 36px;
+    color: #fff;
+    background: #1A1B21;
+}
+.profile_info{
+    text-align: center;
+}
+.profile_info > p{
+    color: #F3BF99;
+}
+.social{
+    display: flex;
+    justify-content: space-between;
+}
+.social > button{
+    padding: 6px 45px 6px 45px;
+    display: flex;
+    align-items: center;
+    border-radius: 10px;
+    font-size: 15px;
+}
+.social > button > img{
+    width: 20px;
+    margin-right: 5px;
+}
+.mail{
+    color: #374151;
+}
+.link{
+    background: #5093E2;
+    color: #fff;
+}
+.about_txt{
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+}

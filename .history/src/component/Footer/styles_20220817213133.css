@@ -1,0 +1,9 @@
+.footer{
+    wi
+    background: #161619;
+    border-radius: 0 0 10px 10px;
+    padding: 20px 73px;
+}
+.footer > img{
+    margin-left: 24px;
+}

@@ -1,0 +1,26 @@
+.about{
+    width: 25%;
+    margin: auto;
+    padding: 24px 36px;
+    color: #fff;
+    background: #1A1B21;
+}
+.profile_info{
+    text-align: center;
+}
+.social{
+    display: flex;
+    justify-content: space-between;
+}
+.social > button{
+    padding: 9px 13px 9px 11px;
+    display: flex;
+    /* align-items: center; */
+    border-radius: 6px;
+}
+.social > button > img{
+    width: 30px;
+}
+.about_txt{
+    display: ;
+}

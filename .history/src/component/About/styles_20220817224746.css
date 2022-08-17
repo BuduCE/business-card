@@ -1,0 +1,43 @@
+.about{
+    padding: 24px 36px;
+    color: #fff;
+    background: #1A1B21;
+}
+.profile_info{
+    text-align: center;
+}
+.profile_info > p{
+    color: #F3BF99;
+}
+.social{
+    display: flex;
+    justify-content: space-between;
+}
+.social > button{
+    /* padding: 0 5px; */
+    width: 145px;
+    height: 40px;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    border-radius: 6px;
+    font-size: 20px;
+    margin-top: 15px;
+}
+.social > button > img{
+    width: 20px;
+    margin-right: 5px;
+}
+.mail{
+    color: #374151;
+}
+.link{
+    background: #5093E2;
+    color: #fff;
+}
+.about_txt{
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+}

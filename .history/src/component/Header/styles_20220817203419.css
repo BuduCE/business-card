@@ -1,0 +1,11 @@
+.header{
+    display: flex;
+    flex-direction: column;
+}
+.profile_img{
+    border-radius: 5px 5px 0 0;
+}
+.profile_info{
+    text-align: center;
+    padding: 10px;
+}
