@@ -13,12 +13,7 @@
     width: 40%;
   }
 }
-@media screen and (max-width: 768px){
-  .App{
-    width: 70%;
-  }
-}
-@media screen and (max-width: 500px){
+@media screen and (max-width: 564px){
   .App{
     width: 100%;
   }
