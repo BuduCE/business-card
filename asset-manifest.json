@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/business-card/static/css/main.cf51f334.css",
+    "main.js": "/business-card/static/js/main.0f006b4d.js",
+    "static/js/787.bc412fff.chunk.js": "/business-card/static/js/787.bc412fff.chunk.js",
+    "static/media/Abdullah_Oladeji.jpg": "/business-card/static/media/Abdullah_Oladeji.07c9f1cbedb835fae8bd.jpg",
+    "static/media/Instagram.svg": "/business-card/static/media/Instagram.6e55471e66540d10a7460d16db788fa7.svg",
+    "static/media/Git.svg": "/business-card/static/media/Git.4786726d5f792026c3e3084ae7f57309.svg",
+    "static/media/Twitter.svg": "/business-card/static/media/Twitter.3f40423293e1813898c7e26f729a0705.svg",
+    "static/media/linkedin.svg": "/business-card/static/media/linkedin.428e955672b18cdce36ebda64db7eedc.svg",
+    "static/media/Facebook.svg": "/business-card/static/media/Facebook.3555154c07f0103fddb692911430ea33.svg",
+    "index.html": "/business-card/index.html",
+    "static/media/Mail.svg": "/business-card/static/media/Mail.341d1e767b26e2540702fb63676d4501.svg",
+    "main.cf51f334.css.map": "/business-card/static/css/main.cf51f334.css.map",
+    "main.0f006b4d.js.map": "/business-card/static/js/main.0f006b4d.js.map",
+    "787.bc412fff.chunk.js.map": "/business-card/static/js/787.bc412fff.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cf51f334.css",
+    "static/js/main.0f006b4d.js"
+  ]
+}
