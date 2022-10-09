@@ -1,16 +1,13 @@
 import React from 'react'
 import './styles.css'
-import image from './profile_img.svg'
-import Mail from './Mail.svg'
-import LinkedIn from './linkedin.svg'
+import image from './Abdullah_Oladeji.jpg'
 
 const Header = () => {
   return (
     <div className='header'>
         <div className="profile_img">
-            <img src={image} alt="Business Owner's image" />
+            <img src={ownerimage} alt="Business Owner's image" />
         </div>
-        
     </div>
   )
 }

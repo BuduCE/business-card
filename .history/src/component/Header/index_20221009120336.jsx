@@ -1,14 +1,13 @@
 import React from 'react'
 import './styles.css'
-import image as './'
+import ownerImage from './Abdullah_Oladeji.jpg'
 
 const Header = () => {
   return (
-    <div>
+    <div className='header'>
         <div className="profile_img">
-            <img src={} alt="" />
+            <img src={image} alt="Business Owner's" />
         </div>
-        <div className="profile_info"></div>
     </div>
   )
 }
