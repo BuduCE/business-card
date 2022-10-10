@@ -6,8 +6,8 @@ import git from './Git.svg'
 const Footer = () => {
   return (
     <div className='footer'>
-      <small>oladejiabdullah17@gmail.com</small>
-      <small>©2022</small>
+        <img src={git} alt="git" />
+        <small>oladeji</small>
     </div>
   )
 }

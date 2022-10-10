@@ -1,6 +1,6 @@
 import React from 'react'
 import './styles.css'
-import git from './Git.svg'
+import Mail from './Mail.svg'
 import LinkedIn from './linkedin.svg'
 import Twitter from './Twitter.svg'
 
@@ -21,7 +21,7 @@ const About = () => {
                     </button>
                 </a>
 
-                  <a href="https://github.com/BuduCE">
+                <a href="">
                     <button>
                           <img src={git} alt="git" />
                           <p>GitHub</p>

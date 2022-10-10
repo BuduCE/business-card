@@ -1,6 +1,6 @@
 import React from 'react'
 import './styles.css'
-import git from './Git.svg'
+import Mail from './Mail.svg'
 import LinkedIn from './linkedin.svg'
 import Twitter from './Twitter.svg'
 
@@ -14,18 +14,15 @@ const About = () => {
             <small>(+234) 701 732 0766</small>
 
             <div className="social">
-                <a href="https://twitter.com/OladejiAbdullah">
+                  <a href="https://twitter.com/OladejiAbdullah">
                     <button className='mail'>
                         <img src={Twitter} alt="" />
                         <p>Twitter</p>
                     </button>
                 </a>
 
-                  <a href="https://github.com/BuduCE">
-                    <button>
-                          <img src={git} alt="git" />
-                          <p>GitHub</p>
-                    </button>
+                <a href="">
+                    b
                 </a>
 
                 <a href="https://www.linkedin.com/in/abdullah-oladeji-340a52191/">

@@ -7,7 +7,7 @@ const Footer = () => {
   return (
     <div className='footer'>
       <small>oladejiabdullah17@gmail.com</small>
-      <small>©2022</small>
+      
     </div>
   )
 }

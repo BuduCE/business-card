@@ -1,6 +1,6 @@
 import React from 'react'
 import './styles.css'
-import git from './Git.svg'
+import git from './Mail.svg'
 import LinkedIn from './linkedin.svg'
 import Twitter from './Twitter.svg'
 
