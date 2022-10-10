@@ -37,7 +37,7 @@ const About = () => {
             </div>
             <div className="int">
                 <h2>Interest</h2>
-                <p>Business. Tech. Travel. Sports. </p>
+                <p>Business. Tech. Travel. .</p>
             </div>
         </div>
     </div>

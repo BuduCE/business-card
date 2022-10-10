@@ -9,23 +9,21 @@ const About = () => {
         {/* Info & Contact */}
         <div className="profile_info">
             <h1>Abdullah Oladeji</h1>
-            <p>Chemist || Frontend Developer || Data Analyst</p>
+              <p>Chemist || Frontend Developer || Data Analyst</p>
+            {/* <p></p> */}
             <small>(+234) 701 732 0766</small>
 
             <div className="social">
-                <a href="oladejiabdullah17@gmail.com">
+                <a href="">
                     <button className='mail'>
                         <img src={Mail} alt="" />
                         <p>Email</p>
-                    </button>
+                      </button>
                 </a>
-
-                <a href="https://www.linkedin.com/in/abdullah-oladeji-340a52191/">
-                    <button className='link'>
-                        <img src={LinkedIn} alt="" />
-                        <p>LinkedIn</p>
-                    </button>
-                </a>
+                <button className='link'>
+                    <img src={LinkedIn} alt="" />
+                    <p>LinkedIn</p>
+                </button>
             </div>
         </div>
 
@@ -37,7 +35,7 @@ const About = () => {
             </div>
             <div className="int">
                 <h2>Interest</h2>
-                <p>Business. Tech. Travel. Sports. </p>
+                <p>Food expert. Reader. Internet fanatic. Entrepreneur. Travel geek. Islam. Sunnah. Coffee fanatic.</p>
             </div>
         </div>
     </div>

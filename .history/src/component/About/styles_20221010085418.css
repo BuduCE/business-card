@@ -17,9 +17,8 @@
     text-decoration: none;
 }
 .social button{
-    padding: 0 25px;
-
-    /* width: 145px; */
+    /* padding: 0 5px; */
+    width: 145px;
     height: 40px;
     margin: auto;
     display: flex;
@@ -29,7 +28,7 @@
     font-size: 20px;
     margin-top: 15px;
 }
-.social button img{
+.social > button > img{
     width: 20px;
     margin-right: 5px;
 }

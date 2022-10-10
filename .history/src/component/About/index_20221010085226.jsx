@@ -20,7 +20,7 @@ const About = () => {
                     </button>
                 </a>
 
-                <a href="https://www.linkedin.com/in/abdullah-oladeji-340a52191/">
+                  <a href="https://www.linkedin.com/in/abdullah-oladeji-340a52191/">
                     <button className='link'>
                         <img src={LinkedIn} alt="" />
                         <p>LinkedIn</p>
@@ -37,7 +37,7 @@ const About = () => {
             </div>
             <div className="int">
                 <h2>Interest</h2>
-                <p>Business. Tech. Travel. Sports. </p>
+                <p>Food expert. Reader. Internet fanatic. Entrepreneur. Travel geek. Islam. Sunnah. Coffee fanatic.</p>
             </div>
         </div>
     </div>
